@@ -22,7 +22,7 @@ const Footer = function() {
                     </div>
                     <div>
                         <h4 className="font-bold text-[24px] text-[#FFFFFF] p-[20px_0]">Instagram Shop</h4>
-                        <div className='grid grid-cols-1 grid-rows-2 lg:grid lg:grid-cols-4 gap-10'>
+                        <div className='grid grid-cols-1 grid-rows-2 lg:grid lg:grid-cols-4 md:grid md:grid-cols-2 gap-10'>
                             <div>
                                 <img src={footerIMG.img_1}/>
                             </div>
